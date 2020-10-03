@@ -4,3 +4,10 @@ This is a hand cricket game made in python. If you like it please support me at 
 Requirements :-
 1. Should have python 3.x installed.
 2. Should have python 3.x added to path.
+
+How to open the game :-
+
+1.    Download and Unzip the zipped file.
+2.    Go to the MainGame folder and open the init.py file.
+3.    Thus now your game is running.
+
